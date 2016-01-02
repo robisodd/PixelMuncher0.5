@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "Pixel Muncher 0.5 beta",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon3.png",
+                "menuIcon": true,
+                "name": "icon",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Font8.png",
+                "name": "FONT8",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/fontsprites.png",
+                "name": "FONT_SPRITES",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pixel Muncher 0.5",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "c964a906-5398-4985-9ef6-decaffc0ffee",
+    "versionLabel": "0.5",
+    "watchapp": {
+        "watchface": false
+    }
+}
